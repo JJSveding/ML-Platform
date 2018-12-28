@@ -1,0 +1,8 @@
+proxy:
+  secretToken: "<bdd15f02c009e8dadf13351fb86504e937787458b363c0941df8abd523913cac>"
+
+
+singleuser:
+  image:
+    name: jupyter/all-spark-notebook
+    tag: 14fdfbf9cfc1
