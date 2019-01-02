@@ -4,5 +4,5 @@ proxy:
 
 singleuser:
   image:
-    name: jupyter/all-spark-notebook
-    tag: 14fdfbf9cfc1
+    name: dockerjensj/j-hub
+    tag: v1
