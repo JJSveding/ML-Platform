@@ -7,7 +7,7 @@ The jupyterHub folder contains:
   
 
 
-## Installing the Chart
+### Installing the Chart
 
 To install the chart with the release name `jupyterhub`:
 
