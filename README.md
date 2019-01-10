@@ -9,7 +9,7 @@ The jupyterHub folder contains:
 
 ## Installing the Chart
 
-To install the chart with the release name `my-release`:
+To install the chart with the release name `jupyterhub`:
 
 ```bash
 $  helm repo add jupyterhub https://jupyterhub.github.io/helm-chart/
