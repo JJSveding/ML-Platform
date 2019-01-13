@@ -8,7 +8,7 @@ Spark:
 
 Master:
   Name: master
-  Image: "dockerjensj/spark-k8s:test2" 
+  Image: "dockerjensj/spark-k8s:test3" 
   Replicas: 1
   Component: "spark-master"
   Cpu: "100m"
@@ -26,7 +26,7 @@ WebUi:
 
 Worker:
   Name: worker
-  Image: "dockerjensj/spark-k8s:test2"
+  Image: "dockerjensj/spark-k8s:test3"
   Replicas: 3
   Component: "spark-worker"
   Cpu: "100m"
